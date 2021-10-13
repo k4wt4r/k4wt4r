@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **k4wt4r/k4wt4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
