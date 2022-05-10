@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Khouribga
-* ✉️  You can contact me at [kawtarelalamipm.me](mailto:kawtarelalamipm.me)
+* ✉️  You can contact me at [kawtarelalami@pm.me](mailto:kawtarelalami@pm.me)
 * 🧠  I'm learning ReactJS | NextJS | Typscript
 
 ### Skills
