@@ -4,7 +4,7 @@ Hi 👋 My name is Kawtar EL-ALAMI
 Web Developer
 -------------
 
-* 🌍  I'm based in Khouribga
+* 🌍  I'm based in Casablanca
 * ✉️  You can contact me at [kawtarelalami@pm.me](mailto:kawtarelalami@pm.me)
 * 🧠  I'm learning ReactJS | NextJS | Typscript
 
